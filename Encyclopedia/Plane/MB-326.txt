@@ -1,0 +1,15 @@
+MB-326
+
+
+
+
+Name: Macchi MB-326
+Type: Training
+Crew: 2
+Length: 10.65 m
+Height: 3.72 m
+Wing span: 10.56 m
+Wing area: 19.20 m²
+Weight empty: 2,237 Kg
+Max takeoff weight: 5,216 kg
+Range: 2,445 Km
