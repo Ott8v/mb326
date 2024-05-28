@@ -2,8 +2,8 @@ local self_ID = "MB-326"
 
 declare_plugin(self_ID,
 {
+developerName = _("Ott8v"),
 displayName = _("MB-326"),
-
 installed = true,
 dirName = current_mod_path,
 fileMenuName = _("MB-326"),
