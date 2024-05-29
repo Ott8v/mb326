@@ -31,4 +31,7 @@ Options = {
 }
 })
 
+
+dofile(current_mod_path..'MB-326.lua')
+
 plugin_done()
